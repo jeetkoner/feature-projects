@@ -9,5 +9,5 @@ clicking next or previous
 
 # i created this using cart gpt using simple prompt. 
 ![image](https://github.com/BuddhadebKoner/feature-projects/assets/113292029/150d8ce3-6bb7-4c87-9476-567a9f1273d9)
-# here the cart link , modify it ..
+# here the chat link , modify it ..
 https://chat.openai.com/share/35718394-9166-4c0e-b644-5b7f208cacfe
