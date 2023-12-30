@@ -2,52 +2,52 @@ const projects = [
     // (Projects array remains unchanged)
 
     {
-        image: 'project1.jpg',
+        image: 'projectDetails/project1.jpg',
         title: 'Project 1',
         details: 'This is the details text for Project 1.'
       },
       {
-        image: 'project2.jpg',
+        image: 'projectDetails/project2.jpg',
         title: 'Project 2',
         details: 'This is the details text for Project 2.'
       },
       {
-        image: 'project3.jpg',
+        image: 'projectDetails/project3.jpg',
         title: 'Project 3',
         details: 'This is the details text for Project 3.'
       },
       {
-        image: 'project4.jpg',
+        image: 'projectDetails/project4.jpg',
         title: 'Project 4',
         details: 'This is the details text for Project 4.'
       },
       {
-        image: 'project5.jpg',
+        image: 'projectDetails/project5.jpg',
         title: 'Project 5',
         details: 'This is the details text for Project 5.'
       },
       {
-        image: 'project6.jpg',
+        image: 'projectDetails/project6.jpg',
         title: 'Project 6',
         details: 'This is the details text for Project 6.'
       },
       {
-        image: 'project7.jpg',
+        image: 'projectDetails/project7.jpg',
         title: 'Project 7',
         details: 'This is the details text for Project 7.'
       },
       {
-        image: 'project8.jpg',
+        image: 'projectDetails/project8.jpg',
         title: 'Project 8',
         details: 'This is the details text for Project 8.'
       },
       {
-        image: 'project9.jpg',
+        image: 'projectDetails/project9.jpg',
         title: 'Project 9',
         details: 'This is the details text for Project 9.'
       },
       {
-        image: 'project10.jpg',
+        image: 'projectDetails/project10.jpg',
         title: 'Project 10',
         details: 'This is the details text for Project 10.'
       },
